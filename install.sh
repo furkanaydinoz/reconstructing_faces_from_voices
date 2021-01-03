@@ -1,4 +1,3 @@
 #!/bin/bash 
-conda create --name voice2face --file requirements.txt
-source activate voice2face
+conda install --file requirements.txt
 pip install -q webrtcvad
