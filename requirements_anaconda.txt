@@ -45,3 +45,6 @@ https://conda.anaconda.org/pytorch/linux-64/pytorch-1.1.0-py3.7_cuda9.0.176_cudn
 https://repo.anaconda.com/pkgs/main/linux-64/scipy-1.2.1-py37h7c811a0_0.tar.bz2
 https://repo.anaconda.com/pkgs/main/linux-64/scikit-learn-0.21.2-py37hd81dba3_0.tar.bz2
 https://conda.anaconda.org/pytorch/linux-64/torchvision-0.3.0-py37_cu9.0.176_1.tar.bz2
+
+
+
